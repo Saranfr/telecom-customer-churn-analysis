@@ -1,4 +1,4 @@
-<img width="1488" height="741" alt="image" src="https://github.com/user-attachments/assets/1b9f9252-9fc8-44d8-a5c7-6e454c96fca3" /># telecom-customer-churn-analysis
+# telecom-customer-churn-analysis
 Project Overview : 
 Telecom Customer Churn Analysis
 
